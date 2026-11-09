@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pquilty79.github.io/presentsofmind-site/sitemap.xml
